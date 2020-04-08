@@ -16,11 +16,11 @@ SARS-CoV-2 can be transmitted person-to-person, and may be more transmissible th
 
 Sequencing method: reverse transcription PCR + whole genome sequencing
 
-[reference](https://wwwnc.cdc.gov/eid/article/26/6/20-0516_article)
+> 2019-nCoV was closely related (with 88% identity) to two bat-derived severe acute respiratory syndrome (SARS)-like coronaviruses, bat-SL-CoVZC45 and bat-SL-CoVZXC21, collected in 2018 in Zhoushan, eastern China, but were more distant from SARS-CoV (about 79%) and MERS-CoV (about 50%). [(Implication of virus origin and receptor binding)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Retrieve&db=PubMed&list_uids=32007145&dopt=Abstract)
 
 ## Genome
 
-[Reference Sequence](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
+[Reference Sequence](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) (Illumina sequencing)
 
 Full sequences and other information can be found at [NCBI SARS-CoV2](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
 
@@ -67,4 +67,6 @@ The protein structures can be found at  [Covid-19 Protein Structure](https://www
 ## Articles
 [PubMed Article  Collection](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
 
-[Implication of virus origin and receptor binding](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Retrieve&db=PubMed&list_uids=32007145&dopt=Abstract)
+[Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Retrieve&db=PubMed&list_uids=32007145&dopt=Abstract)
+
+[Severe Acute Respiratory Syndrome Coronavirus 2 from Patient with 2019 Novel Coronavirus Disease, United States, CDC US](https://wwwnc.cdc.gov/eid/article/26/6/20-0516_article)
