@@ -26,6 +26,10 @@ Full sequences and other information can be found at [NCBI SARS-CoV2](https://ww
 
 Genomic sequences can be downloaded from [Genome GenBank data](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049)
 
+Newest update of covid-19 bioinformatics from [GISAID](https://www.gisaid.org/)
+
+## Epigemiology
+[GISAID genomic epigemiology](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)
 
 ## Proteome
 Proteomic sequences can be downloaded from [Proteome GenBank data](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Protein&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049)
@@ -64,8 +68,10 @@ The protein structures can be found at  [Covid-19 Protein Structure](https://www
 > Collected date: 2020-03-09
 > RNA sequence length: 29874
 
-## Articles
-[PubMed Article  Collection](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
+## News & Articles
+[PNAS](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)
+
+[PubMed Article Collection](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D)
 
 [Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Retrieve&db=PubMed&list_uids=32007145&dopt=Abstract)
 
